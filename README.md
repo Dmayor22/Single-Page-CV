@@ -17,7 +17,7 @@ It helps improve HTML structure and semantic design practices.
 ## 🔗 Useful Links
 
 - 🧩 **Project Challenge:** [View on roadmap.sh](https://roadmap.sh/projects/single-page-cv)
-- 🖥️ **My Implementation:** *[View my Implementation](https://dmayor22.github.io/Single-Page-CV/)
+- 🖥️ **My Implementation:** [View my Implementation](https://dmayor22.github.io/Single-Page-CV/)
 
 ## 👨‍💻 Author
 
